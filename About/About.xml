@@ -1,0 +1,25 @@
+<ModMetaData>
+	<name>Gender Patch</name>
+	<author>Unnamed</author>
+    <packageId>Unnamed.GenderPatch</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Gender patch</description>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<displayName>Biotech</displayName>
+		</li>
+		<li>
+			<packageId>rim.job.world</packageId>
+			<displayName>RimJobWorld</displayName>
+			<downloadUrl>https://gitgud.io/Ed86/rjw</downloadUrl>
+		</li>
+		<li>
+			<packageId>RedMattis.Undead</packageId>
+			<displayName>Vampires, demons, and the undead</displayName>
+		</li>
+	</modDependencies>
+</ModMetaData>
+
